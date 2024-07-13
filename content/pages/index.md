@@ -33,7 +33,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
         borderRadius: small
-        borderStyle: solid
+        borderStyle: none
         borderColor: border-dark
         borderWidth: 0
       title:
