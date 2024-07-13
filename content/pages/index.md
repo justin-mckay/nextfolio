@@ -43,6 +43,12 @@ sections:
     type: HeroSection
     actions: []
     text: >+
+      Portfolio: Code. Experiments. Art. <<>> Blog: Tech. Science. Random
+      thoughts.
+
+
+
+
       Dive into my personal coding projects and experiments. From AI innovations
       to classic games like Tetris, my code portfolio showcases a diverse range
       of projects.
@@ -57,10 +63,7 @@ sections:
       Let's connect and start working together today!
 
 
-      #### 
-
-
-
+      ####
 
   - colors: colors-f
     type: FeaturedProjectsSection
