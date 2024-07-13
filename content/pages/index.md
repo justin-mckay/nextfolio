@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: $ grep -i "Justin McKay" /dev/portfolio
+    title: ''
     subtitle: >-
       Portfolio: Code. Experiments. Art. <<>> Blog: Tech. Science. Random
       thoughts.
