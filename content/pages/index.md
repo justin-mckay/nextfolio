@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: '$ awk ''/Justin McKay/{f=1} f'' /dev/portfolio'
+    subtitle: '$ awk ''/ Justin McKay / {f=1} f'' /dev/portfolio'
     styles:
       self:
         height: auto
