@@ -16,7 +16,8 @@ sections:
     title: tech. code. ai. art.
     subtitle: >-
       Hi, I am Justin McKay and this is my portfolio and blog. Check out my
-      resume.
+      personal coding projects and experiments, read my articles and thoughts
+      and then hire me.
     styles:
       self:
         height: auto
