@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: >-
-      $ grep -i "Justin McKay" /dev/portfolioPortfolio: Code. Experiments. Art.
-      <<>> Blog: Tech. Science. Random thoughts.
+    subtitle: $ grep -i "Justin McKay" /dev/portfolio
     styles:
       self:
         height: auto
