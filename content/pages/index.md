@@ -42,7 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >
+    text: >+
       #### Welcome to my portfolio and blog!
 
 
@@ -56,8 +56,9 @@ sections:
       and thought pieces on a variety of topics.
 
 
-      ######Interested in collaborating? Check out my resume and contact
+      ###### Interested in collaborating? Check out my resume and contact
       information. Let's connect and start working together today!
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
