@@ -44,12 +44,25 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |+
-      # **Welcome to my portfolio and blog!**
+    text: >+
+      Dive into my personal coding projects and experiments. From AI innovations
+      to classic games like Tetris, my code portfolio showcases a diverse range
+      of projects.
 
-      ## **Check out my personal coding projects and experiments.** 
 
-      ## ****
+      Explore my blog for insights and perspectives as I navigate the world of
+      science, tech, AI, and beyond. You'll find articles, reviews, editorials,
+      and thought pieces on a variety of topics.
+
+
+      Interested in collaborating? Check out my resume and contact information.
+      Let's connect and start working together today!
+
+
+      #### 
+
+
+
 
   - colors: colors-f
     type: FeaturedProjectsSection
