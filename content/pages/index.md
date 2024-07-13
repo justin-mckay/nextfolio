@@ -44,7 +44,7 @@ sections:
     actions: []
     text: |+
       ```
-       Step into my portfolio and blog!
+       Welcome to my portfolio and blog!
 
        Dive into my personal coding projects and experiments. From AI innovations to classic games like Tetris, my code portfolio showcases a diverse range of projects.
 
