@@ -32,7 +32,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderRadius: medium
+        borderRadius: large
         borderStyle: double
         borderColor: border-dark
         borderWidth: 2
