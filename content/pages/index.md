@@ -44,8 +44,13 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |
-      Testestestes
+    text: |+
+      # **Welcome to my portfolio and blog!**
+
+      ## **Check out my personal coding projects and experiments.** 
+
+      ## ****
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
