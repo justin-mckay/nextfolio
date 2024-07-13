@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: '$ grep -i "Justin McKay" /dev/portfolio '
+    subtitle: '$ awk ''/Justin McKay/{f=1} f'' /dev/portfolio'
     styles:
       self:
         height: auto
