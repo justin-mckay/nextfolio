@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: tech. code. ai. art.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: 'Hi, I am Justin McKay and this is my portfolio and blog.'
     styles:
       self:
         height: auto
