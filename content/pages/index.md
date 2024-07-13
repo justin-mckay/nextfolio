@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: tech. code. ai. art.
-    subtitle: 'Hi, I am Justin McKay and this is my portfolio and blog.'
+    subtitle: >-
+      Hi, I am Justin McKay and this is my portfolio and blog. Check out my
+      resume.
     styles:
       self:
         height: auto
