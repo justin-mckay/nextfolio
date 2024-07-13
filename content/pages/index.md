@@ -35,6 +35,7 @@ sections:
         borderRadius: medium
         borderStyle: double
         borderColor: border-dark
+        borderWidth: 2
       title:
         textAlign: left
       subtitle:
