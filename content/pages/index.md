@@ -209,7 +209,7 @@ sections:
       text:
         textAlign: left
     text: >
-      ###### Hiring? Need some IT work by the hour? Want to collaborate on
+      **Hiring?** Need some IT work by the hour? Want to collaborate on
       something cool?
 
 
