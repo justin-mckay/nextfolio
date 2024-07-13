@@ -42,26 +42,14 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
-      Portfolio: Code. Experiments. Art. <<>> Blog: Tech. Science. Random
-      thoughts.
+    text: |2+
+           Portfolio: Code. Experiments. Art. <<>> Blog: Tech. Science. Random thoughts.
 
+           Dive into my personal coding projects and experiments. From AI innovations to classic games like Tetris, my code portfolio showcases a diverse range of projects.
 
+           Explore my blog for insights and perspectives as I navigate the world of science, tech, AI, and beyond. You'll find articles, reviews, editorials, and thought pieces on a variety of topics.
 
-
-      Dive into my personal coding projects and experiments. From AI innovations
-      to classic games like Tetris, my code portfolio showcases a diverse range
-      of projects.
-
-
-      Explore my blog for insights and perspectives as I navigate the world of
-      science, tech, AI, and beyond. You'll find articles, reviews, editorials,
-      and thought pieces on a variety of topics.
-
-
-      Interested in collaborating? Check out my resume and contact information.
-      Let's connect and start working together today!
-
+           Interested in collaborating? Check out my resume and contact information. Let's connect and start working together today!
 
       ####
 
