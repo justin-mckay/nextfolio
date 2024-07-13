@@ -208,10 +208,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: >
-      **Hiring?** Need some IT work by the hour? Want to collaborate on
-      something cool?
-
+    text: |
+      HIRING? Need IT work by the hour? Want to collaborate on something cool?
 
       Get in touch now!
 ---
