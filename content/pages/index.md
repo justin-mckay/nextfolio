@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: ''
     subtitle: >-
-      Portfolio: Code. Experiments. Art. <<>> Blog: Tech. Science. Random
-      thoughts.
+      $ grep -i "Justin McKay" /dev/portfolioPortfolio: Code. Experiments. Art.
+      <<>> Blog: Tech. Science. Random thoughts.
     styles:
       self:
         height: auto
