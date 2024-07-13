@@ -103,7 +103,7 @@ sections:
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
-    variant: variant-d
+    variant: variant-a
     subtitle: Featured Posts
     showFeaturedImage: false
     actions:
